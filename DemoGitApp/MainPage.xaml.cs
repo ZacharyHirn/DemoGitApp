@@ -1,4 +1,4 @@
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -18,16 +18,13 @@ namespace DemoGitApp
         {
             this.BackgroundColor = Color.Red;
         }
-<<<<<<< HEAD
-
         void MakeYellow(object sender, System.EventArgs e)
         {
             this.BackgroundColor = Color.Yellow;
-=======
+        }
         void MakeGreen(object sender, System.EventArgs e)
         {
             this.BackgroundColor = Color.Green;
->>>>>>> 9c84ba1... Added make green feature
         }
     }
 }
