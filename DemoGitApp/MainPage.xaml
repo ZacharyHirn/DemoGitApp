@@ -3,5 +3,6 @@
     <StackLayout>
         <!-- Place new controls here -->
         <Button Text="Make Red" HorizontalOptions="Center" VerticalOptions="Center" Clicked="Handle_Clicked" />
+        <Button Text="Make Yellow" Clicked="MakeYellow" />
     </StackLayout>
 </ContentPage>

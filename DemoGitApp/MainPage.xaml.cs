@@ -18,5 +18,10 @@ namespace DemoGitApp
         {
             this.BackgroundColor = Color.Red;
         }
+
+        void MakeYellow(object sender, System.EventArgs e)
+        {
+            this.BackgroundColor = Color.Yellow;
+        }
     }
 }
